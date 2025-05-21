@@ -71,21 +71,27 @@ npx expo start
 
 ##Screenshot
 - Home Page
+  
 ![IMG-20250521-WA0003](https://github.com/user-attachments/assets/c237eed3-49f5-436f-abe4-4ab98c15c1ec)
 
 - Registeration Page
+
 ![IMG-20250521-WA0005](https://github.com/user-attachments/assets/11df5c32-776a-42e8-9473-4354e2668eb4)
 
 - Login Page
+
 ![IMG-20250521-WA0004](https://github.com/user-attachments/assets/3692ef31-293e-4f75-bc3b-35ad7854708e)
 
 - Charging Station Detail Page
+
 ![IMG-20250521-WA0002](https://github.com/user-attachments/assets/5db02d5e-45d7-4d85-9df8-8b4cf0a390b6)
 
 - Map View Page
+
 ![IMG-20250521-WA0006](https://github.com/user-attachments/assets/86330bdc-959d-4280-89e5-c52aab9c4c7d)
 
 - Admin Dashboard
+
 ![IMG-20250521-WA0010](https://github.com/user-attachments/assets/0deae076-d38f-4148-86f9-133933dc8306)
 
 ![IMG-20250521-WA0009](https://github.com/user-attachments/assets/9922b011-ed4e-4b8f-9d50-b5da01c0cd03)
