@@ -1,50 +1,95 @@
-# Welcome to your Expo app 👋
+# ⚡ EV Charge App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+The **EV Charge App** is a mobile application built using **React Native** that helps users locate nearby electric vehicle (EV) charging stations, by list display and map view. It supports registration and authentication using Firebase.
 
-## Get started
+---
 
-1. Install dependencies
+## 🔑 Features
 
-   ```bash
-   npm install
-   ```
+### 👤 User Authentication
+- Register with email and password
+- Login securely using Firebase Authentication
+- Logout and session management
 
-2. Start the app
+### 🧭 Charging Station
+- Browse nearby EV charging stations
+- View charger details
 
-   ```bash
-    npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🧱 Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **Frontend**: React Native, expo
+- **Authentication & Backend**: Firebase Auth
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🛠 Installation
 
-When you're ready, run:
+### 1. Clone the Repository
 
 ```bash
-npm run reset-project
+git clone https://github.com/your-username/ev-charging-app.git
+cd ev-charging-app
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2. Install Dependencies
 
-## Learn more
+```bash
+npm install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+### 3. Setup Firebase
+```bash
+// Go to Firebase Console
+// Create a new project
+// Get your Firebase config from project settings
+// Paste it in 'firebaseConfig.js'
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+// firebaseConfig.js
+import { initializeApp } from "firebase/app";
+import { getAuth } from "firebase/auth";
 
-## Join the community
+const firebaseConfig = {
+  apiKey: "...",
+  authDomain: "...",
+  projectId: "...",
+  storageBucket: "...",
+  messagingSenderId: "...",
+  appId: "..."
+};
 
-Join our community of developers creating universal apps.
+const app = initializeApp(firebaseConfig);
+export const auth = getAuth(app);
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Running the App
+use expo or React Native CLI:
+```bash
+npx expo start 
+```
+
+##Screenshot
+- Home Page
+![IMG-20250521-WA0003](https://github.com/user-attachments/assets/c237eed3-49f5-436f-abe4-4ab98c15c1ec)
+
+- Registeration Page
+![IMG-20250521-WA0005](https://github.com/user-attachments/assets/11df5c32-776a-42e8-9473-4354e2668eb4)
+
+- Login Page
+![IMG-20250521-WA0004](https://github.com/user-attachments/assets/3692ef31-293e-4f75-bc3b-35ad7854708e)
+
+- Charging Station Detail Page
+![IMG-20250521-WA0002](https://github.com/user-attachments/assets/5db02d5e-45d7-4d85-9df8-8b4cf0a390b6)
+
+- Map View Page
+![IMG-20250521-WA0006](https://github.com/user-attachments/assets/86330bdc-959d-4280-89e5-c52aab9c4c7d)
+
+- Admin Dashboard
+![IMG-20250521-WA0010](https://github.com/user-attachments/assets/0deae076-d38f-4148-86f9-133933dc8306)
+
+![IMG-20250521-WA0009](https://github.com/user-attachments/assets/9922b011-ed4e-4b8f-9d50-b5da01c0cd03)
+
+![IMG-20250521-WA0008](https://github.com/user-attachments/assets/4a0ac191-2685-4ca0-b189-015fc6522996)
+
+![IMG-20250521-WA0007](https://github.com/user-attachments/assets/d7ba7057-8260-4a9e-92d3-e53525ed650c)
