@@ -1,0 +1,2399 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJZZpBDkW_wjsRNaLZXm57PPk",
+      "id": "ChIJZZpBDkW_wjsRNaLZXm57PPk",
+      "types": [
+        "electric_vehicle_charging_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "076766 00900",
+      "internationalPhoneNumber": "+91 76766 00900",
+      "formattedAddress": "S No. 147/6B Pushpa Shanti Towers,Shop no 3 Ather Grid 2 - Lodha's, Karve Statue Chowk, Karve Rd, behind HP Petroleum Pump, Mayur Colony, Kothrud, Pune, Maharashtra 411038, India",
+      "addressComponents": [
+        {
+          "longText": "Karve Statue Chowk",
+          "shortText": "Karve Statue Chowk",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "HP Petroleum Pump",
+          "shortText": "HP Petroleum Pump",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karve Road",
+          "shortText": "Karve Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mayur Colony",
+          "shortText": "Mayur Colony",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kothrud",
+          "shortText": "Kothrud",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "411038",
+          "shortText": "411038",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-IN"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JCMGR38+22",
+        "compoundCode": "GR38+22 Pune, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 18.5026176,
+        "longitude": 73.815104600000012
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.501185069708498,
+          "longitude": 73.8137483697085
+        },
+        "high": {
+          "latitude": 18.5038830302915,
+          "longitude": 73.816446330291512
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=17959365128014635573",
+      "websiteUri": "https://www.atherenergy.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "S No. 147/6B Pushpa Shanti Towers,Shop no 3 Ather Grid 2 - Lodha&#39;s, Karve Statue Chowk, \u003cspan class=\"street-address\"\u003eKarve Rd\u003c/span\u003e, behind HP Petroleum Pump, \u003cspan class=\"extended-address\"\u003eMayur Colony, Kothrud\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePune\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e411038\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Ather Grid Charging Station",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Electric Vehicle Charging Station",
+        "languageCode": "en-IN"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 30
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "electric_vehicle_charging_station",
+      "shortFormattedAddress": "Karve Statue Chowk, S No. 147/6B Pushpa Shanti Towers,Shop no 3 Ather Grid 2 - Lodha's, Karve Rd, HP Petroleum Pump, Mayur Colony, Kothrud, Pune",
+      "reviews": [
+        {
+          "name": "places/ChIJZZpBDkW_wjsRNaLZXm57PPk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNENHJfVVBnEAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 3,
+          "authorAttribution": {
+            "displayName": "nikhil padwal",
+            "uri": "https://www.google.com/maps/contrib/112617561908656584556/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJfss9iz_TnjBYDg__yg-McU5pUslnmdXNyVCwJujv5z6Qa-A=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-26T07:41:48.113666Z"
+        },
+        {
+          "name": "places/ChIJZZpBDkW_wjsRNaLZXm57PPk/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4OGI3RllREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Abhi shek",
+            "uri": "https://www.google.com/maps/contrib/112872379937911030850/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrOqqL1IWu0sF0UnRZJHWoDanYs5OgfPR-xxTjLdHZlnVYRldZ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-10T15:48:34.377619Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJZZpBDkW_wjsRNaLZXm57PPk/photos/AdCG2DOOKqHDDt3UbZD5IdOuyiSs4Oc85WBWes1p1GwYvGiFPxl361ORHBTMqxfM0kPp-OpILG_lWoFyFEjGpDvzGAyxLaMR_2uNiB6_GNTMctRnYkn7kzjnytrczmIBxDP4mAveQTwYdwFRxxltcZ9M-aoHa6cvV5puqxGM",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Saikumar B",
+              "uri": "https://maps.google.com/maps/contrib/116360532729893526749",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJgxXF55RV9lAK2_LTXLrhL51TCd0NLMo3kqQwVpfY_VpCGzSQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "evChargeOptions": {
+        "connectorCount": 1,
+        "connectorAggregation": [
+          {
+            "maxChargeRateKw": 1.1000000238418579,
+            "count": 1,
+            "availableCount": 1,
+            "outOfServiceCount": 0,
+            "availabilityLastUpdateTime": "2024-10-24T14:00:00Z"
+          }
+        ]
+      },
+      "addressDescriptor": {
+        "landmarks": [
+          {
+            "name": "places/ChIJHwKoflu_wjsRb7YccMCm9PU",
+            "placeId": "ChIJHwKoflu_wjsRb7YccMCm9PU",
+            "displayName": {
+              "text": "Karve Statue",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ],
+            "straightLineDistanceMeters": 52.373207,
+            "travelDistanceMeters": 101.77241
+          },
+          {
+            "name": "places/ChIJARrhiMC_wjsRgmuBsxFXuIE",
+            "placeId": "ChIJARrhiMC_wjsRgmuBsxFXuIE",
+            "displayName": {
+              "text": "Hindustan Petroleum Corporation Limited",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "gas_station",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "BESIDE",
+            "straightLineDistanceMeters": 16.296211,
+            "travelDistanceMeters": 14.705557
+          },
+          {
+            "name": "places/ChIJmzFIlMC_wjsRmJHYDV8GcME",
+            "placeId": "ChIJmzFIlMC_wjsRmJHYDV8GcME",
+            "displayName": {
+              "text": "Kothrud Post Office",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "finance",
+              "point_of_interest",
+              "post_office"
+            ],
+            "straightLineDistanceMeters": 73.84135,
+            "travelDistanceMeters": 144.06625
+          },
+          {
+            "name": "places/ChIJQ3qihL-_wjsR88N05meL9Mc",
+            "placeId": "ChIJQ3qihL-_wjsR88N05meL9Mc",
+            "displayName": {
+              "text": "Domino's Pizza",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "food",
+              "meal_delivery",
+              "meal_takeaway",
+              "point_of_interest",
+              "restaurant"
+            ],
+            "spatialRelationship": "AROUND_THE_CORNER",
+            "straightLineDistanceMeters": 27.572783,
+            "travelDistanceMeters": 52.86334
+          },
+          {
+            "name": "places/ChIJcZNL77u_wjsRemw_78ztoyI",
+            "placeId": "ChIJcZNL77u_wjsRemw_78ztoyI",
+            "displayName": {
+              "text": "Sai Motor Driving School",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "BESIDE",
+            "straightLineDistanceMeters": 20.654535,
+            "travelDistanceMeters": 9.717301
+          }
+        ],
+        "areas": [
+          {
+            "name": "places/ChIJHRfw4b-_wjsR_kkFbH8osUI",
+            "placeId": "ChIJHRfw4b-_wjsR_kkFbH8osUI",
+            "displayName": {
+              "text": "Mayur Colony",
+              "languageCode": "en"
+            },
+            "containment": "OUTSKIRTS"
+          },
+          {
+            "name": "places/ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "placeId": "ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "displayName": {
+              "text": "Kothrud",
+              "languageCode": "en"
+            },
+            "containment": "WITHIN"
+          },
+          {
+            "name": "places/ChIJc4rXf8C_wjsR4xbMUf8_0po",
+            "placeId": "ChIJc4rXf8C_wjsR4xbMUf8_0po",
+            "displayName": {
+              "text": "Ichhamani Homes Co-Operative Housing Society",
+              "languageCode": "en"
+            },
+            "containment": "NEAR"
+          }
+        ]
+      }
+    },
+    {
+      "name": "places/ChIJKQVDzLe_wjsR6ysIMOYekVg",
+      "id": "ChIJKQVDzLe_wjsR6ysIMOYekVg",
+      "types": [
+        "electric_vehicle_charging_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "34, A-3, Kailas Soc, Shastri Nagar, Kothrud, Pune, Maharashtra 411058, India",
+      "addressComponents": [
+        {
+          "longText": "34, A-3",
+          "shortText": "34, A-3",
+          "types": [
+            "subpremise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kailas Soc",
+          "shortText": "Kailas Soc",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Shastri Nagar",
+          "shortText": "Shastri Nagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kothrud",
+          "shortText": "Kothrud",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "411058",
+          "shortText": "411058",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-IN"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JCMGR33+7H",
+        "compoundCode": "GR33+7H Pune, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 18.5032221,
+        "longitude": 73.8039221
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.5018738197085,
+          "longitude": 73.8025518197085
+        },
+        "high": {
+          "latitude": 18.504571780291503,
+          "longitude": 73.8052497802915
+        }
+      },
+      "rating": 3.3,
+      "googleMapsUri": "https://maps.google.com/?cid=6381916120957856747",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "34, A-3, Kailas Soc, \u003cspan class=\"extended-address\"\u003eShastri Nagar, Kothrud\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePune\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e411058\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Electric Vehicle Charging Station",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Electric Vehicle Charging Station",
+        "languageCode": "en-IN"
+      },
+      "primaryType": "electric_vehicle_charging_station",
+      "shortFormattedAddress": "34, A-3, Kailas Soc, Shastri Nagar, Kothrud, Pune",
+      "reviews": [
+        {
+          "name": "places/ChIJKQVDzLe_wjsR6ysIMOYekVg/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0N3B2QlVREAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 1,
+          "text": {
+            "text": "There is no charging station here",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "There is no charging station here",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chirayu Birla",
+            "uri": "https://www.google.com/maps/contrib/102836429280503489684/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIeGptl4X9Nr5hAFKuV1S5oyDfGg5SvtIQS9vjdstSkVCknTCg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-04T17:25:24.101480Z"
+        },
+        {
+          "name": "places/ChIJKQVDzLe_wjsR6ysIMOYekVg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5eEpmVHFnRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Just ok nothing much more",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Just ok nothing much more",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abhay Bagade",
+            "uri": "https://www.google.com/maps/contrib/118164060633117678915/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocINVDrX30gN35CnzntNIVygLATS8w8L5DR2Hm5VpHtncedWfQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-28T10:54:38.140857Z"
+        },
+        {
+          "name": "places/ChIJKQVDzLe_wjsR6ysIMOYekVg/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1aWJTeldREAE",
+          "relativePublishTimeDescription": "12 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Ravi Sharma",
+            "uri": "https://www.google.com/maps/contrib/109566238824838570765/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwU1YuzM5qh3CNTG0iC1ndn61z77hHidm65RxFA4X0MlU_d7oNXQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-10-26T06:48:09.306558Z"
+        }
+      ],
+      "addressDescriptor": {
+        "landmarks": [
+          {
+            "name": "places/ChIJUUzc0Le_wjsRtbKYaUC8zsU",
+            "placeId": "ChIJUUzc0Le_wjsRtbKYaUC8zsU",
+            "displayName": {
+              "text": "Amigo's Badminton Court",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ],
+            "straightLineDistanceMeters": 71.151726,
+            "travelDistanceMeters": 606.89026
+          },
+          {
+            "name": "places/ChIJEYt4Fri_wjsRq2_OZ9Mvjqc",
+            "placeId": "ChIJEYt4Fri_wjsRq2_OZ9Mvjqc",
+            "displayName": {
+              "text": "Shankarrao Dhondiba Sutar Multi-speciality Hospital",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "health",
+              "hospital",
+              "point_of_interest"
+            ],
+            "straightLineDistanceMeters": 409.222,
+            "travelDistanceMeters": 595.8261
+          },
+          {
+            "name": "places/ChIJT8vyIci_wjsRo4emTVTb1kw",
+            "placeId": "ChIJT8vyIci_wjsRo4emTVTb1kw",
+            "displayName": {
+              "text": "Badhai Sweets",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "food",
+              "point_of_interest",
+              "store"
+            ],
+            "straightLineDistanceMeters": 195.69437,
+            "travelDistanceMeters": 538.1192
+          },
+          {
+            "name": "places/ChIJr637Hra_wjsRuK2ufJCHHNw",
+            "placeId": "ChIJr637Hra_wjsRuK2ufJCHHNw",
+            "displayName": {
+              "text": "Ashish Garden Banquet Hall",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ],
+            "straightLineDistanceMeters": 286.5585,
+            "travelDistanceMeters": 534.97473
+          },
+          {
+            "name": "places/ChIJ54nAlRDAwjsRK-KZ_iNvI5Y",
+            "placeId": "ChIJ54nAlRDAwjsRK-KZ_iNvI5Y",
+            "displayName": {
+              "text": "The Institute of Company Secretaries of India",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ],
+            "straightLineDistanceMeters": 168.46829,
+            "travelDistanceMeters": 435.5323
+          }
+        ],
+        "areas": [
+          {
+            "name": "places/ChIJp-3qfba_wjsRvDwbgiq2kVo",
+            "placeId": "ChIJp-3qfba_wjsRvDwbgiq2kVo",
+            "displayName": {
+              "text": "Shastri Nagar",
+              "languageCode": "en"
+            },
+            "containment": "WITHIN"
+          },
+          {
+            "name": "places/ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "placeId": "ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "displayName": {
+              "text": "Kothrud",
+              "languageCode": "en"
+            },
+            "containment": "WITHIN"
+          },
+          {
+            "name": "places/ChIJm7qBTLa_wjsRpgQFtAV3fy0",
+            "placeId": "ChIJm7qBTLa_wjsRpgQFtAV3fy0",
+            "displayName": {
+              "text": "BHAWANI COMPLEX",
+              "languageCode": "hi"
+            },
+            "containment": "NEAR"
+          }
+        ]
+      }
+    },
+    {
+      "name": "places/ChIJlUFJd9a_wjsRV-k_SHmabDg",
+      "id": "ChIJlUFJd9a_wjsRV-k_SHmabDg",
+      "types": [
+        "electric_vehicle_charging_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "GaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud, Pune, Maharashtra 411038, India",
+      "addressComponents": [
+        {
+          "longText": "Ramkrishna Paramhans Nagar",
+          "shortText": "Ramkrishna Paramhans Nagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "GaneshKripa Society",
+          "shortText": "GaneshKripa Society",
+          "types": [
+            "sublocality_level_3",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kothrud",
+          "shortText": "Kothrud",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "411038",
+          "shortText": "411038",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-IN"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JCMGR63+F7",
+        "compoundCode": "GR63+F7 Pune, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 18.5111566,
+        "longitude": 73.8031398
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.509789469708497,
+          "longitude": 73.8017927697085
+        },
+        "high": {
+          "latitude": 18.5124874302915,
+          "longitude": 73.8044907302915
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=4065794409302583639",
+      "websiteUri": "https://www.synergyem.in/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"extended-address\"\u003eGaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePune\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e411038\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Synergy Charging Station",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Electric Vehicle Charging Station",
+        "languageCode": "en-IN"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 30
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "electric_vehicle_charging_station",
+      "shortFormattedAddress": "GaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud, Pune",
+      "reviews": [
+        {
+          "name": "places/ChIJlUFJd9a_wjsRV-k_SHmabDg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUNDVhMnVRRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Ramji Vavhle",
+            "uri": "https://www.google.com/maps/contrib/111532456331455466891/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLW1Z2UV4TOqoo69s8WOjxdBuCAxw3i8ADTGwcuIts_IAyz_Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-05-18T16:44:51.336979Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJlUFJd9a_wjsRV-k_SHmabDg/photos/AdCG2DO-Ot_CvldFfTmjJXsNhrL11h3A1VKgGI899N6ZaTcDJcJb2lgXQ7-0DNb47XC0IsyjRIvju_pe6A9f_LgemsK_vFbOb4u4Mqrxq-xtKG4hG-zasQkoPaOlowINA4vJ_QiXScHcZ2YU2JbQhfMKPbELI3Suvl3mxi0W",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Abhijeet Nagarkar",
+              "uri": "https://maps.google.com/maps/contrib/100808086137339328875",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWocadXaDyQObU2Xdc5g_C6ei2K5V8Th_eV8effHnnpQaVOO90=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlUFJd9a_wjsRV-k_SHmabDg/photos/AdCG2DMug4GORtRYqBENUU_DntqWqs_uzpmJPTf7JJ2aWLsvTTgHHHgv4_0VwHT5Zg24hrp8Koa7fjS-zEb3k5aURfDoH6FoFEQbNxI-clRzORVhDgE6nW7zEkcYYfk2vh53yftpGO3riWDhZfNYud8GmxbcL5GjH-7hj-jm",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Abhijeet Nagarkar",
+              "uri": "https://maps.google.com/maps/contrib/100808086137339328875",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWocadXaDyQObU2Xdc5g_C6ei2K5V8Th_eV8effHnnpQaVOO90=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "addressDescriptor": {
+        "landmarks": [
+          {
+            "name": "places/ChIJAQAAAIzHwjsR7u4WIZ5HLl4",
+            "placeId": "ChIJAQAAAIzHwjsR7u4WIZ5HLl4",
+            "displayName": {
+              "text": "ANAND GARAGE",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "BESIDE",
+            "straightLineDistanceMeters": 5.7363005,
+            "travelDistanceMeters": 5.5548487
+          },
+          {
+            "name": "places/ChIJi5y3Pr6_wjsRMtvx503hugI",
+            "placeId": "ChIJi5y3Pr6_wjsRMtvx503hugI",
+            "displayName": {
+              "text": "Rajhans Pustak Peth",
+              "languageCode": "en"
+            },
+            "types": [
+              "book_store",
+              "establishment",
+              "point_of_interest",
+              "store"
+            ],
+            "spatialRelationship": "AROUND_THE_CORNER",
+            "straightLineDistanceMeters": 74.10145,
+            "travelDistanceMeters": 85.099945
+          },
+          {
+            "name": "places/ChIJm8JZX7C_wjsRCSmd2n0W2Aw",
+            "placeId": "ChIJm8JZX7C_wjsRCSmd2n0W2Aw",
+            "displayName": {
+              "text": "Kumthekar Datta Mandir",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "hindu_temple",
+              "place_of_worship",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "DOWN_THE_ROAD",
+            "straightLineDistanceMeters": 167.23569,
+            "travelDistanceMeters": 165.91548
+          },
+          {
+            "name": "places/ChIJF85fTLC_wjsRuudZgi9zPFc",
+            "placeId": "ChIJF85fTLC_wjsRuudZgi9zPFc",
+            "displayName": {
+              "text": "Ganesh Krupa Society",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ],
+            "straightLineDistanceMeters": 99.62013,
+            "travelDistanceMeters": 139.37497
+          },
+          {
+            "name": "places/ChIJiX4QHLG_wjsRQ2SMvwXQdM8",
+            "placeId": "ChIJiX4QHLG_wjsRQ2SMvwXQdM8",
+            "displayName": {
+              "text": "Sandeep Dairy Farm",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "food",
+              "point_of_interest",
+              "store"
+            ],
+            "straightLineDistanceMeters": 189.49472,
+            "travelDistanceMeters": 231.07341
+          }
+        ],
+        "areas": [
+          {
+            "name": "places/ChIJLXM-srG_wjsRrwIc4vv55A8",
+            "placeId": "ChIJLXM-srG_wjsRrwIc4vv55A8",
+            "displayName": {
+              "text": "GaneshKripa Society",
+              "languageCode": "en"
+            },
+            "containment": "OUTSKIRTS"
+          },
+          {
+            "name": "places/ChIJizzFGrG_wjsR9eYaiMfAFjw",
+            "placeId": "ChIJizzFGrG_wjsR9eYaiMfAFjw",
+            "displayName": {
+              "text": "Ramkrishna Paramhans Nagar",
+              "languageCode": "en"
+            },
+            "containment": "WITHIN"
+          },
+          {
+            "name": "places/ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "placeId": "ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "displayName": {
+              "text": "Kothrud",
+              "languageCode": "en"
+            },
+            "containment": "WITHIN"
+          }
+        ]
+      }
+    },
+    {
+      "name": "places/ChIJK4b4bAC_wjsR9NF61MQ7GQk",
+      "id": "ChIJK4b4bAC_wjsR9NF61MQ7GQk",
+      "types": [
+        "electric_vehicle_charging_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "GR26+WQ8, DP Rd, near Ghar Sansar, Bhelkenagar, Kothrud, Pune, Maharashtra 411058, India",
+      "addressComponents": [
+        {
+          "longText": "GR26+WQ8",
+          "shortText": "GR26+WQ8",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-IN"
+        },
+        {
+          "longText": "Ghar Sansar",
+          "shortText": "Ghar Sansar",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "DP Road",
+          "shortText": "DP Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhelkenagar",
+          "shortText": "Bhelkenagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kothrud",
+          "shortText": "Kothrud",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "411058",
+          "shortText": "411058",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-IN"
+        }
+      ],
+      "location": {
+        "latitude": 18.5022965,
+        "longitude": 73.8119569
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.500905619708497,
+          "longitude": 73.8106123697085
+        },
+        "high": {
+          "latitude": 18.503603580291504,
+          "longitude": 73.8133103302915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=655620937323565556",
+      "websiteUri": "http://www.bijlifynow.com/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "GR26+WQ8, \u003cspan class=\"street-address\"\u003eDP Rd\u003c/span\u003e, near Ghar Sansar, \u003cspan class=\"extended-address\"\u003eBhelkenagar, Kothrud\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePune\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e411058\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Bijlify Charging Station",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Electric Vehicle Charging Station",
+        "languageCode": "en-IN"
+      },
+      "primaryType": "electric_vehicle_charging_station",
+      "shortFormattedAddress": "GR26+WQ8, DP Rd, Ghar Sansar, Bhelkenagar, Kothrud, Pune",
+      "evChargeOptions": {
+        "connectorCount": 2,
+        "connectorAggregation": [
+          {
+            "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2",
+            "maxChargeRateKw": 60,
+            "count": 2
+          }
+        ]
+      },
+      "addressDescriptor": {
+        "landmarks": [
+          {
+            "name": "places/ChIJjxJpVMe_wjsR9Fr67UpCiV4",
+            "placeId": "ChIJjxJpVMe_wjsR9Fr67UpCiV4",
+            "displayName": {
+              "text": "Yashwantrao Chavan Natyagruha",
+              "languageCode": "en"
+            },
+            "types": [
+              "art_gallery",
+              "establishment",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "AROUND_THE_CORNER",
+            "straightLineDistanceMeters": 81.66419,
+            "travelDistanceMeters": 110.20832
+          },
+          {
+            "name": "places/ChIJJ1vzUMe_wjsRaVbIH-NZ-tw",
+            "placeId": "ChIJJ1vzUMe_wjsRaVbIH-NZ-tw",
+            "displayName": {
+              "text": "Ghar Sansar Shop",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "home_goods_store",
+              "point_of_interest",
+              "store"
+            ],
+            "spatialRelationship": "BESIDE",
+            "straightLineDistanceMeters": 13.850426,
+            "travelDistanceMeters": 13.812094
+          },
+          {
+            "name": "places/ChIJ6VS2Obe_wjsRBFqO46KXOwY",
+            "placeId": "ChIJ6VS2Obe_wjsRBFqO46KXOwY",
+            "displayName": {
+              "text": "P.K. Dum Biryani House",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "food",
+              "point_of_interest",
+              "restaurant"
+            ],
+            "spatialRelationship": "ACROSS_THE_ROAD",
+            "straightLineDistanceMeters": 26.678158,
+            "travelDistanceMeters": 65.410416
+          },
+          {
+            "name": "places/ChIJ9VvMUse_wjsRYTwNKWjw3iQ",
+            "placeId": "ChIJ9VvMUse_wjsRYTwNKWjw3iQ",
+            "displayName": {
+              "text": "Tuljabhavani Mata Mandir",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "hindu_temple",
+              "place_of_worship",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "DOWN_THE_ROAD",
+            "straightLineDistanceMeters": 120.65975,
+            "travelDistanceMeters": 119.810936
+          },
+          {
+            "name": "places/ChIJ7aPwL8G_wjsR05ZT_C8KZ6A",
+            "placeId": "ChIJ7aPwL8G_wjsR05ZT_C8KZ6A",
+            "displayName": {
+              "text": "Bank Of Baroda",
+              "languageCode": "en"
+            },
+            "types": [
+              "bank",
+              "establishment",
+              "finance",
+              "point_of_interest"
+            ],
+            "straightLineDistanceMeters": 364.3463,
+            "travelDistanceMeters": 478.77594
+          }
+        ],
+        "areas": [
+          {
+            "name": "places/ChIJf0ByYMe_wjsRK2GNegtR5Ts",
+            "placeId": "ChIJf0ByYMe_wjsRK2GNegtR5Ts",
+            "displayName": {
+              "text": "Bhelkenagar",
+              "languageCode": "en"
+            },
+            "containment": "OUTSKIRTS"
+          },
+          {
+            "name": "places/ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "placeId": "ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "displayName": {
+              "text": "Kothrud",
+              "languageCode": "en"
+            },
+            "containment": "WITHIN"
+          },
+          {
+            "name": "places/ChIJz5Zorbi_wjsR39fseYPhxhw",
+            "placeId": "ChIJz5Zorbi_wjsR39fseYPhxhw",
+            "displayName": {
+              "text": "Tatyasaheb Thorat Udyan",
+              "languageCode": "en"
+            },
+            "containment": "NEAR"
+          }
+        ]
+      }
+    },
+    {
+      "name": "places/ChIJD2d73k2_wjsR7FyHy63vUL0",
+      "id": "ChIJD2d73k2_wjsR7FyHy63vUL0",
+      "types": [
+        "electric_vehicle_charging_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "GR57+RJP, Paud Rd, Sarvatra Society, Anand Nagar, Kothrud, Pune, Maharashtra 411038, India",
+      "addressComponents": [
+        {
+          "longText": "GR57+RJP",
+          "shortText": "GR57+RJP",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-IN"
+        },
+        {
+          "longText": "Paud Road",
+          "shortText": "Paud Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Sarvatra Society",
+          "shortText": "Sarvatra Society",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Anand Nagar",
+          "shortText": "Anand Nagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kothrud",
+          "shortText": "Kothrud",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "411038",
+          "shortText": "411038",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-IN"
+        }
+      ],
+      "location": {
+        "latitude": 18.5095781,
+        "longitude": 73.8140816
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.5081959697085,
+          "longitude": 73.812737819708488
+        },
+        "high": {
+          "latitude": 18.510893930291505,
+          "longitude": 73.8154357802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13641666801028259052",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "GR57+RJP, \u003cspan class=\"street-address\"\u003ePaud Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSarvatra Society, Anand Nagar, Kothrud\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePune\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e411038\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Electric Vehicle Charging Station",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Electric Vehicle Charging Station",
+        "languageCode": "en-IN"
+      },
+      "primaryType": "electric_vehicle_charging_station",
+      "shortFormattedAddress": "GR57+RJP, Paud Rd, Sarvatra Society, Anand Nagar, Kothrud, Pune",
+      "addressDescriptor": {
+        "landmarks": [
+          {
+            "name": "places/ChIJf2ZLP7y_wjsRnoiuzDcT8ic",
+            "placeId": "ChIJf2ZLP7y_wjsRnoiuzDcT8ic",
+            "displayName": {
+              "text": "Krishna Hospital",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "health",
+              "hospital",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "DOWN_THE_ROAD",
+            "straightLineDistanceMeters": 143.90515,
+            "travelDistanceMeters": 140.93983
+          },
+          {
+            "name": "places/ChIJvXN_Iry_wjsRg1uUHSgvp2Y",
+            "placeId": "ChIJvXN_Iry_wjsRg1uUHSgvp2Y",
+            "displayName": {
+              "text": "Bank of India",
+              "languageCode": "en"
+            },
+            "types": [
+              "atm",
+              "bank",
+              "establishment",
+              "finance",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "ACROSS_THE_ROAD",
+            "straightLineDistanceMeters": 32.459766,
+            "travelDistanceMeters": 14.425888
+          },
+          {
+            "name": "places/ChIJAQAAALS_wjsRkwHtU9SeMK8",
+            "placeId": "ChIJAQAAALS_wjsRkwHtU9SeMK8",
+            "displayName": {
+              "text": "Laxminarayan Pavbhaji Center",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "food",
+              "point_of_interest",
+              "restaurant"
+            ],
+            "spatialRelationship": "ACROSS_THE_ROAD",
+            "straightLineDistanceMeters": 26.162777,
+            "travelDistanceMeters": 9.810097
+          },
+          {
+            "name": "places/ChIJu8naHZa_wjsRylRgNSfXkiE",
+            "placeId": "ChIJu8naHZa_wjsRylRgNSfXkiE",
+            "displayName": {
+              "text": "VIJAY SALES - KOTHRUD",
+              "languageCode": "en"
+            },
+            "types": [
+              "electronics_store",
+              "establishment",
+              "home_goods_store",
+              "point_of_interest",
+              "store"
+            ],
+            "spatialRelationship": "DOWN_THE_ROAD",
+            "straightLineDistanceMeters": 141.29184,
+            "travelDistanceMeters": 257.6465
+          },
+          {
+            "name": "places/ChIJa9IYEby_wjsR0hbWdB_6T5Q",
+            "placeId": "ChIJa9IYEby_wjsR0hbWdB_6T5Q",
+            "displayName": {
+              "text": "Garware Foods",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "food",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "DOWN_THE_ROAD",
+            "straightLineDistanceMeters": 63.250286,
+            "travelDistanceMeters": 337.26205
+          }
+        ],
+        "areas": [
+          {
+            "name": "places/ChIJ710Sor6_wjsRb90US0XoNuk",
+            "placeId": "ChIJ710Sor6_wjsRb90US0XoNuk",
+            "displayName": {
+              "text": "Sarvatra Society",
+              "languageCode": "en"
+            },
+            "containment": "OUTSKIRTS"
+          },
+          {
+            "name": "places/ChIJj_SOfLy_wjsRWNByoJ-Qc1U",
+            "placeId": "ChIJj_SOfLy_wjsRWNByoJ-Qc1U",
+            "displayName": {
+              "text": "Rambaug Colony",
+              "languageCode": "en"
+            },
+            "containment": "OUTSKIRTS"
+          },
+          {
+            "name": "places/ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "placeId": "ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "displayName": {
+              "text": "Kothrud",
+              "languageCode": "en"
+            },
+            "containment": "WITHIN"
+          }
+        ]
+      }
+    },
+    {
+      "name": "places/ChIJhTXWxEi_wjsRXIuXw8_2EnE",
+      "id": "ChIJhTXWxEi_wjsRXIuXw8_2EnE",
+      "types": [
+        "electric_vehicle_charging_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "099589 43092",
+      "internationalPhoneNumber": "+91 99589 43092",
+      "formattedAddress": "P 38A, Ramshandra Mane Rd, near Anand Garage, GaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud, Pune, Maharashtra 411038, India",
+      "addressComponents": [
+        {
+          "longText": "P 38A",
+          "shortText": "P 38A",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-IN"
+        },
+        {
+          "longText": "Anand Garage",
+          "shortText": "Anand Garage",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ramshandra Mane Rd",
+          "shortText": "Ramshandra Mane Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "GaneshKripa Society",
+          "shortText": "GaneshKripa Society",
+          "types": [
+            "sublocality_level_3",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ramkrishna Paramhans Nagar",
+          "shortText": "Ramkrishna Paramhans Nagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kothrud",
+          "shortText": "Kothrud",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "411038",
+          "shortText": "411038",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-IN"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JCMGR63+J7",
+        "compoundCode": "GR63+J7 Pune, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 18.5115072,
+        "longitude": 73.803153999999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.5101596197085,
+          "longitude": 73.8018152697085
+        },
+        "high": {
+          "latitude": 18.512857580291506,
+          "longitude": 73.8045132302915
+        }
+      },
+      "rating": 1,
+      "googleMapsUri": "https://maps.google.com/?cid=8147846048066800476",
+      "websiteUri": "https://www.kazam.in/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eP 38A, Ramshandra Mane Rd\u003c/span\u003e, near Anand Garage, \u003cspan class=\"extended-address\"\u003eGaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePune\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e411038\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Kazam Charging Station",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Electric Vehicle Charging Station",
+        "languageCode": "en-IN"
+      },
+      "primaryType": "electric_vehicle_charging_station",
+      "shortFormattedAddress": "P 38A, Ramshandra Mane Rd, Anand Garage, GaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud, Pune",
+      "reviews": [
+        {
+          "name": "places/ChIJhTXWxEi_wjsRXIuXw8_2EnE/reviews/ChdDSUhNMG9nS0VJQ0FnSURtanNxbnd3RRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 1,
+          "text": {
+            "text": "This station is closed.\nThe owner should remove it immediately.\nThis is miss guiding people.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This station is closed.\nThe owner should remove it immediately.\nThis is miss guiding people.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "abhishek patil",
+            "uri": "https://www.google.com/maps/contrib/107314765934182329315/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0oSRlGqTWF-zW3bEwMH3hV6lqtP2Flrt6gW60JJETagl0yA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-01-28T10:51:46.522297Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJhTXWxEi_wjsRXIuXw8_2EnE/photos/AdCG2DOc6jDBdedrY5ssft3H9RqtkgcsH058xEQRI0URdT4wSRsqZb0ybjBaAIN1g2KHLCNusnnepJSW4hJ9nD1FtCk9lf6Vlvv0W_Phr-FrJpV032T061385cKP-vbtyG3oYPiBk66zkQ4ysvkqsO3DIHA1AEdTTA0WcDQr",
+          "widthPx": 4640,
+          "heightPx": 2610,
+          "authorAttributions": [
+            {
+              "displayName": "Naynesh Patil",
+              "uri": "https://maps.google.com/maps/contrib/111276961505630892931",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgjrbQXYRaPX7235bLH0UV9ZOoGsQ3AINHithIKJSgFTpku0dzCQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJhTXWxEi_wjsRXIuXw8_2EnE/photos/AdCG2DNQjkUELNEmGxyVsR7jhN0_KYofi07ftq7WB8A6NRAY-FGO5ynNrCY7GwZvtDzEjZIxZrMjfW0OOwgEPWnsScAnA-pgaj8senpC26kQgj0DWH7NrzOZwcpO4GiSjPtsAFiOWCFt26tNogkY10DS3DT4CtOkyv7RHMSF",
+          "widthPx": 2610,
+          "heightPx": 4640,
+          "authorAttributions": [
+            {
+              "displayName": "Naynesh Patil",
+              "uri": "https://maps.google.com/maps/contrib/111276961505630892931",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgjrbQXYRaPX7235bLH0UV9ZOoGsQ3AINHithIKJSgFTpku0dzCQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJhTXWxEi_wjsRXIuXw8_2EnE/photos/AdCG2DPOnOBmz9-uJ-csMG8NkLqX0Em8lvSJYT4gBW7YiutDhn_OOH3rmVVcFKUZzBM04GatUfHzOD4MgRtSEegcywK5D4wLTrWHap5Jh_uJMsK0-gE9SUT3TxDyCYOQZclIu2o300muyZAFuVKw5cgKgZ-wPyLdHH9SeqLr",
+          "widthPx": 4640,
+          "heightPx": 2610,
+          "authorAttributions": [
+            {
+              "displayName": "Naynesh Patil",
+              "uri": "https://maps.google.com/maps/contrib/111276961505630892931",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgjrbQXYRaPX7235bLH0UV9ZOoGsQ3AINHithIKJSgFTpku0dzCQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "addressDescriptor": {
+        "landmarks": [
+          {
+            "name": "places/ChIJAQAAAIzHwjsR7u4WIZ5HLl4",
+            "placeId": "ChIJAQAAAIzHwjsR7u4WIZ5HLl4",
+            "displayName": {
+              "text": "ANAND GARAGE",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "AROUND_THE_CORNER",
+            "straightLineDistanceMeters": 38.24208,
+            "travelDistanceMeters": 51.206264
+          },
+          {
+            "name": "places/ChIJF85fTLC_wjsRuudZgi9zPFc",
+            "placeId": "ChIJF85fTLC_wjsRuudZgi9zPFc",
+            "displayName": {
+              "text": "Ganesh Krupa Society",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "DOWN_THE_ROAD",
+            "straightLineDistanceMeters": 80.699615,
+            "travelDistanceMeters": 82.61385
+          },
+          {
+            "name": "places/ChIJ_3QGt7G_wjsRaM9H20Qlth4",
+            "placeId": "ChIJ_3QGt7G_wjsRaM9H20Qlth4",
+            "displayName": {
+              "text": "Shree Ganeshkrupa Sabhagruha",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "DOWN_THE_ROAD",
+            "straightLineDistanceMeters": 59.961266,
+            "travelDistanceMeters": 59.72985
+          },
+          {
+            "name": "places/ChIJi5y3Pr6_wjsRMtvx503hugI",
+            "placeId": "ChIJi5y3Pr6_wjsRMtvx503hugI",
+            "displayName": {
+              "text": "Rajhans Pustak Peth",
+              "languageCode": "en"
+            },
+            "types": [
+              "book_store",
+              "establishment",
+              "point_of_interest",
+              "store"
+            ],
+            "straightLineDistanceMeters": 113.67414,
+            "travelDistanceMeters": 114.68372
+          },
+          {
+            "name": "places/ChIJm8JZX7C_wjsRCSmd2n0W2Aw",
+            "placeId": "ChIJm8JZX7C_wjsRCSmd2n0W2Aw",
+            "displayName": {
+              "text": "Kumthekar Datta Mandir",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "hindu_temple",
+              "place_of_worship",
+              "point_of_interest"
+            ],
+            "spatialRelationship": "AROUND_THE_CORNER",
+            "straightLineDistanceMeters": 178.44981,
+            "travelDistanceMeters": 195.49927
+          }
+        ],
+        "areas": [
+          {
+            "name": "places/ChIJLXM-srG_wjsRrwIc4vv55A8",
+            "placeId": "ChIJLXM-srG_wjsRrwIc4vv55A8",
+            "displayName": {
+              "text": "GaneshKripa Society",
+              "languageCode": "en"
+            },
+            "containment": "WITHIN"
+          },
+          {
+            "name": "places/ChIJizzFGrG_wjsR9eYaiMfAFjw",
+            "placeId": "ChIJizzFGrG_wjsR9eYaiMfAFjw",
+            "displayName": {
+              "text": "Ramkrishna Paramhans Nagar",
+              "languageCode": "en"
+            },
+            "containment": "WITHIN"
+          },
+          {
+            "name": "places/ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "placeId": "ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "displayName": {
+              "text": "Kothrud",
+              "languageCode": "en"
+            },
+            "containment": "WITHIN"
+          }
+        ]
+      }
+    },
+    {
+      "name": "places/ChIJ1QUzOAC_wjsRUQG9xTK_GJw",
+      "id": "ChIJ1QUzOAC_wjsRUQG9xTK_GJw",
+      "types": [
+        "electric_vehicle_charging_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "GR25+Q7P, DP Rd, Londhe Wada, Azad Nagar, Kothrud, Pune, Maharashtra 411038, India",
+      "addressComponents": [
+        {
+          "longText": "GR25+Q7P",
+          "shortText": "GR25+Q7P",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-IN"
+        },
+        {
+          "longText": "DP Road",
+          "shortText": "DP Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Londhe Wada",
+          "shortText": "Londhe Wada",
+          "types": [
+            "sublocality_level_3",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Azad Nagar",
+          "shortText": "Azad Nagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kothrud",
+          "shortText": "Kothrud",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune",
+          "shortText": "Pune",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "411038",
+          "shortText": "411038",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-IN"
+        }
+      ],
+      "location": {
+        "latitude": 18.5019579,
+        "longitude": 73.808216800000011
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.500616619708495,
+          "longitude": 73.8068681697085
+        },
+        "high": {
+          "latitude": 18.503314580291498,
+          "longitude": 73.8095661302915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11247950294144581969",
+      "websiteUri": "http://www.bijlifynow.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 am – 9:00 pm",
+          "Tuesday: 6:00 am – 9:00 pm",
+          "Wednesday: 6:00 am – 9:00 pm",
+          "Thursday: 6:00 am – 9:00 pm",
+          "Friday: 6:00 am – 9:00 pm",
+          "Saturday: 6:00 am – 9:00 pm",
+          "Sunday: 6:00 am – 9:00 pm"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "GR25+Q7P, \u003cspan class=\"street-address\"\u003eDP Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLondhe Wada, Azad Nagar, Kothrud\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePune\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e411038\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Bijlify Charging Station",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Electric Vehicle Charging Station",
+        "languageCode": "en-IN"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 30
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 30
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 10,
+                "day": 26
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 am – 9:00 pm",
+          "Tuesday: 6:00 am – 9:00 pm",
+          "Wednesday: 6:00 am – 9:00 pm",
+          "Thursday: 6:00 am – 9:00 pm",
+          "Friday: 6:00 am – 9:00 pm",
+          "Saturday: 6:00 am – 9:00 pm",
+          "Sunday: 6:00 am – 9:00 pm"
+        ]
+      },
+      "primaryType": "electric_vehicle_charging_station",
+      "shortFormattedAddress": "GR25+Q7P, DP Rd, Londhe Wada, Azad Nagar, Kothrud, Pune",
+      "photos": [
+        {
+          "name": "places/ChIJ1QUzOAC_wjsRUQG9xTK_GJw/photos/AdCG2DN5zKTQa93XW8HvcxlBrqUXx8KvuHm1JbylejmELFnP8-2iCnAbljxoJHjACEvfZKAeksAwELF9syCm-rAwrvyhCJWR5mJpCCnmOrd2wEnZbDAGT_TI74U1EmYTw-waG-rYUBLQVihI12WzcmgqxtmMh50sReXyFHKI",
+          "widthPx": 4800,
+          "heightPx": 3599,
+          "authorAttributions": [
+            {
+              "displayName": "Evigo Charge",
+              "uri": "https://maps.google.com/maps/contrib/106904873794734853250",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPiBUk1dpuJK6Apc0e6F5j-4uG7WFgOJni5smGGWhhSxvoSp0=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "addressDescriptor": {
+        "landmarks": [
+          {
+            "name": "places/ChIJtUt988e_wjsR1AoVNkUgqdQ",
+            "placeId": "ChIJtUt988e_wjsR1AoVNkUgqdQ",
+            "displayName": {
+              "text": "Shri Raj Furniture",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "furniture_store",
+              "home_goods_store",
+              "point_of_interest",
+              "store"
+            ],
+            "spatialRelationship": "ACROSS_THE_ROAD",
+            "straightLineDistanceMeters": 33.696404,
+            "travelDistanceMeters": 291.22485
+          },
+          {
+            "name": "places/ChIJP54VkMe_wjsR8Y3EzE_OFNM",
+            "placeId": "ChIJP54VkMe_wjsR8Y3EzE_OFNM",
+            "displayName": {
+              "text": "Paranjape",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "school"
+            ],
+            "spatialRelationship": "DOWN_THE_ROAD",
+            "straightLineDistanceMeters": 63.66267,
+            "travelDistanceMeters": 61.635353
+          },
+          {
+            "name": "places/ChIJK0I0bse_wjsR1yuLzb7d6RM",
+            "placeId": "ChIJK0I0bse_wjsR1yuLzb7d6RM",
+            "displayName": {
+              "text": "BVB Paranjape Vidya Mandir",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "school"
+            ],
+            "spatialRelationship": "DOWN_THE_ROAD",
+            "straightLineDistanceMeters": 63.18723,
+            "travelDistanceMeters": 61.481415
+          },
+          {
+            "name": "places/ChIJEYt4Fri_wjsRq2_OZ9Mvjqc",
+            "placeId": "ChIJEYt4Fri_wjsRq2_OZ9Mvjqc",
+            "displayName": {
+              "text": "Shankarrao Dhondiba Sutar Multi-speciality Hospital",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "health",
+              "hospital",
+              "point_of_interest"
+            ],
+            "straightLineDistanceMeters": 197.31723,
+            "travelDistanceMeters": 447.78497
+          },
+          {
+            "name": "places/ChIJj-ipjMe_wjsR7HT3joKj74E",
+            "placeId": "ChIJj-ipjMe_wjsR7HT3joKj74E",
+            "displayName": {
+              "text": "BK Avenue",
+              "languageCode": "en"
+            },
+            "types": [
+              "establishment",
+              "point_of_interest"
+            ],
+            "straightLineDistanceMeters": 34.58191,
+            "travelDistanceMeters": 330.14703
+          }
+        ],
+        "areas": [
+          {
+            "name": "places/ChIJUQvlMMe_wjsR4spefrjzFUY",
+            "placeId": "ChIJUQvlMMe_wjsR4spefrjzFUY",
+            "displayName": {
+              "text": "Londhe Wada",
+              "languageCode": "en"
+            },
+            "containment": "OUTSKIRTS"
+          },
+          {
+            "name": "places/ChIJc-vIcsa_wjsRxpMzS44hf9s",
+            "placeId": "ChIJc-vIcsa_wjsRxpMzS44hf9s",
+            "displayName": {
+              "text": "Chaitanya Nagar",
+              "languageCode": "en"
+            },
+            "containment": "OUTSKIRTS"
+          },
+          {
+            "name": "places/ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "placeId": "ChIJnYSvMre_wjsR8ET-s0iLB9Q",
+            "displayName": {
+              "text": "Kothrud",
+              "languageCode": "en"
+            },
+            "containment": "WITHIN"
+          }
+        ]
+      }
+    }
+  ]
+}

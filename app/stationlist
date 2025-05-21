@@ -1,0 +1,38 @@
+{
+    id: "1",
+    name: "Synergy Charging Station",
+    address: "GaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud",
+    pricePerKilowatt: 5.0,
+  },
+  {
+    id: "2",
+    name: "Bijlify Charging Station",
+    address: " Londhe Wada, Azad Nagar, Kothrud",
+    pricePerKilowatt: 4.5,
+  },
+  {
+    id: "3",
+    name: "Würth Charging Station",
+    address: "Golden Bakery, Salisbury Park, Gultekadi, Pune",
+    pricePerKilowatt: 6.0,
+  },
+  {
+    id: "4",
+    name: "Tata Power Charging Station",
+    address: "Agarkar Nagar, Pune",
+    pricePerKilowatt: 5.5,
+  },
+  {
+    id: "5",
+    name: "Ather Grid Charging Station",
+    address:
+      " Kimaya Veg Restaurant, 127, Karve Rd, Jhala Co-Op Housing Society, Kothrud",
+    pricePerKilowatt: 4.8,
+  },
+  {
+    id: "6",
+    name: "EV Dock Charging Station",
+    address:
+      "City Center,Connaught Rd, near Lemon Tree Primer Hotel, Modi Colony, Pune",
+    pricePerKilowatt: 5.3,
+  },

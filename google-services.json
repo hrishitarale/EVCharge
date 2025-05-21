@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123494791555",
+    "project_id": "projectmain-36bcb",
+    "storage_bucket": "projectmain-36bcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123494791555:android:7377ff62f241fb454a1eb6",
+        "android_client_info": {
+          "package_name": "com.evchargeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc-0NBvHvVWv8QMmTiUKhohltedC5x_lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
